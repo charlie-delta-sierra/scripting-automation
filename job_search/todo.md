@@ -1,6 +1,6 @@
 # _TODO_ List
 
-TODO check readme  
-TODO check code v0  
-TODO check code v2  
-TODO git it  
+DONE check readme  
+DONE check code v0  
+DONE check code v2  
+DONE git it  
